@@ -3,10 +3,10 @@ A project to design and develop a hotel booking system for managing rooms, custo
 
 
 Objectives:
-_ Manage hotel room information.
-_ Store customer details.
-_ Record room reservations.
-_ Track room availability.
+* Manage hotel room information.
+* Store customer details.
+* Record room reservations.
+* Track room availability.
 
 Main Features:
 * Room management
@@ -15,7 +15,7 @@ Main Features:
 * Room availability tracking
 
 Project Type: 
-Academic project focused on system analysis and design.
+* Academic project focused on system analysis and design.
 
 Conclusion
 This project aims to improve the organization and management of hotel reservations.
