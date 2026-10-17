@@ -1,0 +1,20 @@
+Hotel Booking System - Requirements
+1. Introduction
+   The Hotel Booking System is designed to help manage hotel rooms, customers, bookings and payments.
+   
+2. Functional Requirements
+   * The system should store customer information.
+   * The system should display available hotel rooms.
+   * The system should allow customers to make bookings.
+   * The system should allow bookings to be cancelled.
+   * The system should record payment information.
+   * The system should manage booking details.
+     
+3. Main Classes
+   * Customer: Stores customer information.
+   * Room: Stores room information and availability.
+   * Booking: Stores booking dates and status.
+   * Payment: Stores payment details.
+
+4. Purpose
+   The system aims to make hotel booking management more organized and efficient.
