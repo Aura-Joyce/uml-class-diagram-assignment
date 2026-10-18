@@ -1,6 +1,6 @@
 Project Title: Hotel Booking System
 
-1. Project Introduction
+1. Project Introduction: 
 The Hotel Booking System is a proposed information system designed to organize guest information, hotel room details, reservations, and payments. This project uses a UML (Unified Modeling Language) class diagram to represent the structure of the proposed system.
 
 The project identifies the main classes, their attributes, methods, and relationships to provide a clear model of how hotel booking system can be organized.
